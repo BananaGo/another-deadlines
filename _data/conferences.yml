@@ -1448,4 +1448,338 @@
   portal: https://www.editorialmanager.com/jpdc/
   comment: Accepts submission throughout the year.
   tags: [THEORY, PRACT, JRN]
-  
+
+# --- ADDITIONAL
+
+- name: ACM TAISAP
+  description: ACM Transactions on AI Security and Privacy
+  year: 2026
+  link: [https://dl.acm.org/journal/taisap](https://dl.acm.org/journal/taisap)
+  abdeadline:
+  deadline: []
+  rebut:
+  date: Rolling
+  place:
+  comment: >
+    AI security/privacy and AI for cybersecurity. Particularly strong fit for
+    ML/AI applied to cyber defence, trustworthy AI, adversarial ML, agentic AI,
+    explainability, and security of AI systems.
+  tags: [PRACT, APPLIED, PPML, JRN, COREO]
+
+- name: IEEE TDSC
+  description: IEEE Transactions on Dependable and Secure Computing
+  year: 2026
+  link: [https://www.computer.org/csdl/journal/tq](https://www.computer.org/csdl/journal/tq)
+  abdeadline:
+  deadline: []
+  rebut:
+  date: Rolling
+  place:
+  comment: >
+    Security- and systems-oriented journal. Strong fit when ML/AI is embedded
+    in a security or dependable-system contribution with explicit threat models,
+    requirements, robustness, evaluation, or deployment considerations.
+  tags: [THEORY, PRACT, APPLIED, PPML, JRN, COREO]
+
+- name: IEEE TIFS
+  description: IEEE Transactions on Information Forensics and Security
+  year: 2026
+  link: [https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206)
+  abdeadline:
+  deadline: []
+  rebut:
+  date: Rolling
+  place:
+  comment: >
+    Strong algorithmic security venue covering detection, information
+    forensics, authentication, adversarial learning, anomaly detection,
+    privacy and security-oriented inference.
+  tags: [THEORY, PRACT, APPLIED, PPML, JRN, COREO]
+
+- name: ACM TOPS
+  description: ACM Transactions on Privacy and Security
+  year: 2026
+  link: [https://dl.acm.org/journal/tops](https://dl.acm.org/journal/tops)
+  abdeadline:
+  deadline: []
+  rebut:
+  date: Rolling
+  place:
+  comment: >
+    Fundamental computer security and privacy journal. Good fit when the
+    primary contribution is cybersecurity rather than ML itself.
+  tags: [THEORY, PRACT, APPLIED, JRN, COREO]
+
+- name: TMLR
+  description: Transactions on Machine Learning Research
+  year: 2026
+  link: [https://jmlr.org/tmlr/](https://jmlr.org/tmlr/)
+  abdeadline:
+  deadline: []
+  rebut:
+  date: Rolling
+  place:
+  comment: >
+    Machine-learning-first venue. Cybersecurity can serve as the problem
+    domain, but the contribution should expose a general ML phenomenon,
+    method, evaluation principle, task formulation, or learning-system insight.
+    TMLR does not accept expanded versions of already published conference papers.
+  tags: [THEORY, APPLIED, PPML, JRN, COREO]
+
+- name: Computers & Security
+  description: Computers & Security
+  year: 2026
+  link: [https://www.elsevier.com/locate/cose](https://www.elsevier.com/locate/cose)
+  abdeadline:
+  deadline: []
+  rebut:
+  date: Rolling
+  place:
+  comment: >
+    Applied cybersecurity and security-engineering journal. Suitable for
+    empirical ML-based cyber defence, IDS, security evaluation, operational
+    systems and practice-oriented work.
+  tags: [PRACT, APPLIED, PPML, JRN, COREO]
+
+- name: ACM DTRAP
+  description: "ACM Digital Threats: Research and Practice"
+  year: 2026
+  link: [https://dl.acm.org/journal/dtrap](https://dl.acm.org/journal/dtrap)
+  abdeadline:
+  deadline: []
+  rebut:
+  date: Rolling
+  place:
+  comment: >
+    Explicitly bridges cybersecurity research and operational practice.
+    Interesting for engineering-heavy AI/cyber work, evaluation methodologies,
+    autonomous defence, threat analysis and deployable systems.
+  tags: [PRACT, APPLIED, PPML, JRN, COREO]
+
+- name: JISA
+  description: Journal of Information Security and Applications
+  year: 2026
+  link: [https://www.journals.elsevier.com/journal-of-information-security-and-applications](https://www.journals.elsevier.com/journal-of-information-security-and-applications)
+  abdeadline:
+  deadline: []
+  rebut:
+  date: Rolling
+  place:
+  comment: >
+    Practice-driven information-security journal. Good fit for applied ML,
+    IDS, cyber-defence systems, security analytics and experimentally grounded
+    security applications.
+  tags: [PRACT, APPLIED, PPML, JRN, COREO]
+
+- name: IEEE TAI
+  description: IEEE Transactions on Artificial Intelligence
+  year: 2026
+  link: [https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence](https://cis.ieee.org/publications/ieee-transactions-on-artificial-intelligence)
+  abdeadline:
+  deadline: []
+  rebut:
+  date: Rolling
+  place:
+  comment: >
+    AI-first multidisciplinary journal covering AI theories, methodologies
+    and applications. Cybersecurity is appropriate when the principal novelty
+    lies in the AI method rather than only the cyber application.
+  tags: [THEORY, APPLIED, PPML, JRN, COREO]
+
+- name: JMLR
+  description: Journal of Machine Learning Research
+  year: 2026
+  link: [https://www.jmlr.org/](https://www.jmlr.org/)
+  abdeadline:
+  deadline: []
+  rebut:
+  date: Rolling
+  place:
+  comment: >
+    Fundamental machine-learning journal. Requires a contribution of broad
+    interest to ML; application-only cybersecurity papers are explicitly
+    outside its scope.
+  tags: [THEORY, PPML, JRN, COREO]
+
+  - name: IJIS
+  description: International Journal of Information Security
+  year: 2026
+  link: [https://link.springer.com/journal/10207](https://link.springer.com/journal/10207)
+  abdeadline:
+  deadline: []
+  rebut:
+  date: Rolling
+  place:
+  comment: >
+    Broad information-security journal covering theory, applications and
+    implementations. Suitable for ML-based cyber defence when the security
+    contribution and threat model are central.
+  tags: [THEORY, PRACT, APPLIED, PPML, JRN, COREO]
+
+- name: Journal of Cybersecurity
+  description: Journal of Cybersecurity
+  year: 2026
+  link: [https://academic.oup.com/cybersecurity](https://academic.oup.com/cybersecurity)
+  abdeadline:
+  deadline: []
+  rebut:
+  date: Rolling
+  place:
+  comment: >
+    Broad interdisciplinary cybersecurity journal. Particularly interesting
+    for work that combines technical AI/cybersecurity research with systems,
+    human, policy, operational, or methodological questions.
+  tags: [THEORY, PRACT, APPLIED, JRN, COREO]
+
+- name: JINS
+  description: Journal on Information Security
+  year: 2026
+  link: [https://link.springer.com/journal/13635](https://link.springer.com/journal/13635)
+  abdeadline:
+  deadline: []
+  rebut:
+  date: Rolling
+  place:
+  comment: >
+    Information security with a strong data-driven and signal-processing
+    orientation. Explicitly relevant to noisy, partial and adversarial data,
+    detection, security analytics and system-level evaluation.
+  tags: [PRACT, APPLIED, PPML, JRN, COREO]
+
+- name: IEEE TNSM
+  description: IEEE Transactions on Network and Service Management
+  year: 2026
+  link: [https://www.comsoc.org/publications/journals/ieee-transactions-network-and-service-management](https://www.comsoc.org/publications/journals/ieee-transactions-network-and-service-management)
+  abdeadline:
+  deadline: []
+  rebut:
+  date: Rolling
+  place:
+  comment: >
+    Strong target for ML-based network security, IDS, traffic analysis,
+    autonomous network management and deployable networked systems.
+    Especially suitable when scalability, performance or operational
+    evaluation is part of the contribution.
+  tags: [PRACT, APPLIED, PPML, JRN, COREO]
+
+- name: IEEE TMLCN
+  description: IEEE Transactions on Machine Learning in Communications and Networking
+  year: 2026
+  link: [https://www.comsoc.org/publications/journals/ieee-tmlcn](https://www.comsoc.org/publications/journals/ieee-tmlcn)
+  abdeadline:
+  deadline: []
+  rebut:
+  date: Rolling
+  place:
+  comment: >
+    ML-first journal for communications and networking. Scope explicitly
+    includes ML for network security, secure ML, distributed and edge learning,
+    autonomous network control, realistic dataset generation, experimental
+    testbeds and real-world implementations.
+  tags: [THEORY, PRACT, APPLIED, PPML, JRN, COREO]
+
+- name: IEEE TCCN
+  description: IEEE Transactions on Cognitive Communications and Networking
+  year: 2026
+  link: [https://www.comsoc.org/publications/journals/ieee-transactions-cognitive-communications-and-networking](https://www.comsoc.org/publications/journals/ieee-transactions-cognitive-communications-and-networking)
+  abdeadline:
+  deadline: []
+  rebut:
+  date: Rolling
+  place:
+  comment: >
+    Intelligent communications and networking, including learning, reasoning,
+    decision making, knowledge representation and security/privacy.
+    Particularly relevant for RL, autonomous networking and intelligent MANETs.
+  tags: [THEORY, PRACT, APPLIED, PPML, JRN, COREO]
+
+- name: Machine Learning
+  description: Machine Learning
+  year: 2026
+  link: [https://link.springer.com/journal/10994](https://link.springer.com/journal/10994)
+  abdeadline:
+  deadline: []
+  rebut:
+  date: Rolling
+  place:
+  comment: >
+    Established ML-first journal. Appropriate when the cyber problem produces
+    a general contribution to learning methodology, analysis, evaluation or
+    understanding rather than only an application result.
+  tags: [THEORY, APPLIED, PPML, JRN, COREO]
+
+- name: DMKD
+  description: Data Mining and Knowledge Discovery
+  year: 2026
+  link: [https://link.springer.com/journal/10618](https://link.springer.com/journal/10618)
+  abdeadline:
+  deadline: []
+  rebut:
+  date: Rolling
+  place:
+  comment: >
+    Data mining and knowledge-discovery journal covering structured data,
+    graph data, representation, uncertainty, scalability and explainability.
+    Potentially strong for graph/KG-based cyber reasoning and security analytics.
+  tags: [THEORY, APPLIED, PPML, JRN, COREO]
+
+- name: IEEE TNNLS
+  description: IEEE Transactions on Neural Networks and Learning Systems
+  year: 2026
+  link: [https://cis.ieee.org/publications/t-neural-networks-and-learning-systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)
+  abdeadline:
+  deadline: []
+  rebut:
+  date: Rolling
+  place:
+  comment: >
+    High-end ML venue for substantive methodological contributions in neural
+    networks and learning systems. Cybersecurity would normally be an
+    application/evaluation domain rather than the primary contribution.
+  tags: [THEORY, APPLIED, PPML, JRN, COREO]
+
+- name: EAAI
+  description: Engineering Applications of Artificial Intelligence
+  year: 2026
+  link: [https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence)
+  abdeadline:
+  deadline: []
+  rebut:
+  date: Rolling
+  place:
+  comment: >
+    Engineering-oriented AI journal. Explicitly covers distributed AI,
+    reasoning, real-time intelligent automation, verification and validation
+    of AI-based software, reliability, monitoring and benchmarking.
+    Very interesting for engineering-centric trustworthy-AI work.
+  tags: [PRACT, APPLIED, PPML, JRN, COREO]
+
+- name: KBS
+  description: Knowledge-Based Systems
+  year: 2026
+  link: [https://www.sciencedirect.com/journal/knowledge-based-systems](https://www.sciencedirect.com/journal/knowledge-based-systems)
+  abdeadline:
+  deadline: []
+  rebut:
+  date: Rolling
+  place:
+  comment: >
+    AI journal centered on knowledge-based and intelligent systems.
+    Particularly relevant for knowledge graphs, explicit belief/state
+    representations, reasoning, neuro-symbolic methods and explainable AI.
+  tags: [THEORY, APPLIED, PPML, JRN, COREO]
+
+- name: Pattern Recognition
+  description: Pattern Recognition
+  year: 2026
+  link: [https://www.sciencedirect.com/journal/pattern-recognition](https://www.sciencedirect.com/journal/pattern-recognition)
+  abdeadline:
+  deadline: []
+  rebut:
+  date: Rolling
+  place:
+  comment: >
+    ML/pattern-recognition journal. Potential target for technically novel
+    anomaly detection, representation learning, classification or adversarial
+    detection work where the contribution generalizes beyond cybersecurity.
+  tags: [THEORY, APPLIED, PPML, JRN, COREO]
