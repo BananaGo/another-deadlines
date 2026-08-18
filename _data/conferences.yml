@@ -1457,9 +1457,9 @@
   link: [https://dl.acm.org/journal/taisap](https://dl.acm.org/journal/taisap)
   abdeadline:
   deadline: []
-  rebut:
+  rebut: None
   date: Rolling
-  place:
+  place: None
   comment: >
     AI security/privacy and AI for cybersecurity. Particularly strong fit for
     ML/AI applied to cyber defence, trustworthy AI, adversarial ML, agentic AI,
