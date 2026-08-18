@@ -2,8 +2,8 @@ title: MPC Deadlines Hub
 description: Stay updated with the latest deadlines for top Multi-Party Computation (MPC) events, including conferences, journals, and workshops. Never miss an important submission again!
 author: Ajith Suresh
 
-domain: "bananago.github.io/another-deadlines/"
-baseurl: ""
+domain: "bananago.github.io"
+baseurl: "/another-deadlines"
 
 twitter_username: Ajith_Suresh92
 github_username: mpc-deadlines
